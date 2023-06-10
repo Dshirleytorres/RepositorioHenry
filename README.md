@@ -1,2 +1,2 @@
 # repositoriohenry
-este es un repositorio de prueba repositoriohenry
+Este es una prueba de repositorio clonandolo desde github
